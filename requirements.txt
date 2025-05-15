@@ -1,4 +1,5 @@
-Flask==2.3.3
-Flasgger==0.9.7.1
-requests==2.31.0
-
+Flask
+gunicorn
+requests
+flasgger
+flask-cors
